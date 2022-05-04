@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: yellow;
+}
+body{
+    background-color: red;
+}
+
+div{
+    background-color: #000000;
+    margin-right: 900px;
+    color: yellow;
+}
+div ul li a{
+    
+    font-size: 40px;
+}
